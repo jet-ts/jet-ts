@@ -6,7 +6,7 @@
     "scripts": {
         "test": "",
         "build": "npx tsc --build tsconfig.json",
-        "publish": "np --no-tests"
+        "release": "np --no-tests"
     },
     "repository": {
         "type": "git",
