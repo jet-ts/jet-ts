@@ -1,0 +1,26 @@
+{
+    "name": "jet-ts",
+    "version": "0.0.2",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "",
+        "build": "npx tsc --build tsconfig.json",
+        "publish": "np --no-tests"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jepperaskdk/jet-ts.git"
+    },
+    "author": "Jeppe Rask",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jepperaskdk/jet-ts/issues"
+    },
+    "homepage": "https://github.com/jepperaskdk/jet-ts#readme",
+    "devDependencies": {
+        "np": "^7.2.0",
+        "tslint": "^6.1.3",
+        "typescript": "^4.1.3"
+    }
+}
