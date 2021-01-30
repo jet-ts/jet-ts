@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jepperaskdk/jet-ts.git"
+        "url": "git+https://github.com/jet-ts/jet-ts.git"
     },
     "author": "Jeppe Rask",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/jepperaskdk/jet-ts/issues"
+        "url": "https://github.com/jet-ts/jet-ts/issues"
     },
-    "homepage": "https://github.com/jepperaskdk/jet-ts#readme",
+    "homepage": "https://github.com/jet-ts/jet-ts#readme",
     "devDependencies": {
         "np": "^7.2.0",
         "tslint": "^6.1.3",
